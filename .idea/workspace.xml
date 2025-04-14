@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="807723f6-191c-4704-90a2-6676ae152eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DBMS Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBMS_Project/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Student.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Teacher.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/add_questions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/create_quiz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/input_teacher_id.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/quiz_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/select_course_difficulty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/select_teacher.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student/custom_quiz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student/quiz_results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student/quizzes_by_teacher.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student/quizzes_filter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student/search_quizzes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student/take_quiz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student/taken_quizzes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/student_dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/take_quiz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teacher/my_quizzes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teacher/quiz_students.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teacher/see_quiz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teacher/student_number.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teacher/student_result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teacher/view_quiz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teacher/view_quizzes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/teacher_dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/view_scores.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/view_student_scores.html" afterDir="false" />
-    </list>
+    <list default="true" id="807723f6-191c-4704-90a2-6676ae152eda" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,7 +120,7 @@
       <workItem from="1742775145564" duration="3161000" />
       <workItem from="1743911411592" duration="16263000" />
       <workItem from="1744131084548" duration="5999000" />
-      <workItem from="1744224494869" duration="55356000" />
+      <workItem from="1744224494869" duration="55718000" />
     </task>
     <servers />
   </component>
